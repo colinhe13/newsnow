@@ -4,5 +4,5 @@ compatibility_date = "2024-10-03"
 
 [[d1_databases]]
 binding = "NEWSNOW_DB"
-database_name = "newsnow-db"
-database_id = ""
+database_name = "patient-darkness-b279-d1"
+database_id = "9ec324b6-d7a3-426a-a550-a73d98b9dd40"
